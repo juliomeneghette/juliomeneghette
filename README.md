@@ -1,16 +1,53 @@
-## Hi there 👋
+# Olá, eu sou Julio Meneghette 👋
 
-<!--
-**juliomeneghette/juliomeneghette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Analista de Tecnologia da Informação
 
-Here are some ideas to get you started:
+⚙️ Automação e otimização de processos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Tecnologia aplicada à produtividade
+
+🤝 Líder voluntário e Rotaractiano
+
+🎮 Entusiasta de games
+
+🎤 Apaixonado por música
+
+---
+
+## 🚀 Atualmente estudando
+
+- Desenvolvimento Web
+- Automação de Processos
+- Inteligência Artificial
+- Gestão de TI
+
+---
+
+## 🎯 Objetivo
+
+Utilizar tecnologia para simplificar processos, aumentar produtividade e criar soluções que gerem resultados reais.
+
+---
+
+## 🛠️ Tecnologias
+
+HTML • CSS • JavaScript
+
+Git • GitHub
+
+Microsoft 365
+
+Power Automate
+
+---
+
+## 📂 Projetos
+
+### 📱 Solicitação de Celulares Corporativos
+Sistema para gestão e solicitação de dispositivos móveis corporativos.
+
+### 🎨 Realizze Tintas
+Landing page institucional.
+
+### 🎥 Houi Produtora
+Site institucional para produtora audiovisual.
