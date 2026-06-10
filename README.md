@@ -2,52 +2,91 @@
 
 💻 Analista de Tecnologia da Informação
 
-⚙️ Automação e otimização de processos
+⚙️ Focado em automação, produtividade e melhoria contínua
 
-📈 Tecnologia aplicada à produtividade
+📈 Utilizando tecnologia para gerar resultados reais
 
 🤝 Líder voluntário e Rotaractiano
 
-🎮 Entusiasta de games
+---
 
-🎤 Apaixonado por música
+## 🚀 Sobre mim
+
+Atuo na área de Tecnologia da Informação com foco na otimização de processos, suporte à operação e desenvolvimento de soluções que agreguem valor ao negócio.
+
+Tenho interesse especial em automação de processos, inteligência artificial, desenvolvimento web e gestão de tecnologia.
+
+Acredito que a tecnologia deve ser utilizada como ferramenta para simplificar atividades, aumentar produtividade e impulsionar resultados.
 
 ---
 
-## 🚀 Atualmente estudando
+## 🎯 Atualmente estudando
 
 - Desenvolvimento Web
 - Automação de Processos
 - Inteligência Artificial
 - Gestão de TI
+- Boas práticas de Infraestrutura
 
 ---
 
-## 🎯 Objetivo
+## 🛠️ Tecnologias e Ferramentas
 
-Utilizar tecnologia para simplificar processos, aumentar produtividade e criar soluções que gerem resultados reais.
+### Desenvolvimento
+
+- HTML
+- CSS
+- JavaScript
+
+### Ferramentas
+
+- Git
+- GitHub
+- VS Code
+
+### Produtividade
+
+- Microsoft 365
+- Power Automate
+- Excel
 
 ---
 
-## 🛠️ Tecnologias
-
-HTML • CSS • JavaScript
-
-Git • GitHub
-
-Microsoft 365
-
-Power Automate
-
----
-
-## 📂 Projetos
+## 📂 Projetos em Destaque
 
 ### 📱 Solicitação de Celulares Corporativos
-Sistema para gestão e solicitação de dispositivos móveis corporativos.
 
-### 🎨 Realizze Tintas
-Programa de parceiros para fábrica de tintas.
+Sistema desenvolvido para gerenciamento e solicitação de dispositivos móveis corporativos.
 
-### 🎥 Houi Produtora
-Landing page para produtora audiovisual.
+### 🏆 Sistema de Parceiros Realizze
+
+Plataforma desenvolvida para acompanhamento e controle de pontuação de parceiros comerciais.
+
+### 🎥 Landing Page Houi Produtora
+
+Landing page institucional criada para apresentação de serviços e fortalecimento da presença digital da marca.
+
+---
+
+## 📚 Interesses
+
+- Automação de Processos
+- Inteligência Artificial
+- Gestão de Tecnologia
+- Desenvolvimento Web
+- Liderança
+- Inovação
+
+---
+
+## 🌎 Onde me encontrar
+
+📍 José Bonifácio - SP
+
+💼 LinkedIn: www.linkedin.com/in/juliocesarmeneghette
+
+📷 Instagram: @juliomeneghette
+
+---
+
+> "Transformando tecnologia em resultados."
