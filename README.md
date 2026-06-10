@@ -47,7 +47,7 @@ Power Automate
 Sistema para gestão e solicitação de dispositivos móveis corporativos.
 
 ### 🎨 Realizze Tintas
-Landing page institucional.
+Programa de parceiros para fábrica de tintas.
 
 ### 🎥 Houi Produtora
-Site institucional para produtora audiovisual.
+Landing page para produtora audiovisual.
